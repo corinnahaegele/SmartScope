@@ -1,11 +1,14 @@
+# Instructions for assembly of brightfield microscope
+
 Choose the parts as listed in the folders 5mm or 9mm.
 
 Assemble the parts like shown in the pictures below:
 
 ## 9mm Setup
-Insert the 9mm-lens in the barrell with with the flat surface facing outwards
+Insert the 9mm-lens in the barrell with with the flat surface facing outwards. The surface of the lens should be flush with the barrell.
 
-![9mm_Insert_Lense](https://user-images.githubusercontent.com/58549170/110979489-f4164300-8364-11eb-923b-3e758eb4c4b0.PNG)
+![9mm_Insert_Lense](https://user-images.githubusercontent.com/58549170/110981710-d9919900-8367-11eb-98f6-013307856a1e.PNG)
+
 
 
 Insert the mobile phone into the basis-slot (display facing down) and mount the other parts (with lens inside of barrell)
@@ -15,5 +18,20 @@ Insert the mobile phone into the basis-slot (display facing down) and mount the 
 Lastly, insert the slide with the sample into the slot of the sampleholder.
 The thread connecting sampleholder and barrell can be used to meet the exact focal lenght of the lens.
 
-# Your smartphone microscope is now ready to take some images!
 
+
+## 5mm Setup
+Insert the 5mm-lens in the sampleholder (Barrell and sampleholder are combined in ONE part) with with the flat surface facing outwards. The surface of the lens should be flush with the sampleholder.
+
+
+![5mm_insert_lens](https://user-images.githubusercontent.com/58549170/110981526-8cadc280-8367-11eb-929f-b6a199059f3e.PNG)
+
+
+Insert the mobile phone into the basis-slot (display facing down) and mount the other parts (with lens inside of barrell)
+
+![5mm_BF](https://user-images.githubusercontent.com/58549170/110981818-02199300-8368-11eb-8adb-f15cd054281b.PNG)
+
+Lastly, insert the slide with the sample into the slot of the sampleholder.
+
+
+# Your smartphone microscope is now ready to take some images!
