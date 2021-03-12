@@ -1,4 +1,4 @@
-# Instructions for assembly of brightfield microscope
+# Instructions for assembly of fluorescence microscope
 
 Choose the parts as listed in the folders 5mm or 9mm.
 
@@ -11,9 +11,9 @@ Insert the 9mm-lens in the barrell with with the flat surface facing outwards. T
 
 
 Insert the mobile phone into the basis-slot (display facing down) and mount the other parts (with lens inside of barrell). 
-The color filter can be taped onto the barrel's inner surface so that its center is above the lens.
+The color filter can be taped onto the barrel's inner surface so that it's center is above the lens.
 
-![9mm_Assemble_Parts](https://user-images.githubusercontent.com/58549170/110979838-6d159a80-8365-11eb-84e2-cc887dc41683.PNG)
+![9mm_fl](https://user-images.githubusercontent.com/58549170/110983735-6b9aa100-836a-11eb-8824-2d7eaa32f119.PNG)
 
 Lastly, insert the slide with the sample into the slot of the sampleholder.
 The thread connecting sampleholder and barrell can be used to meet the exact focal lenght of the lens.
@@ -38,7 +38,8 @@ Insert the 5mm-lens in the sampleholder with with the flat surface facing outwar
 
 Insert the mobile phone into the basis-slot (display facing down) and mount the other parts (with lens inside of barrell)
 
-![5mm_BF](https://user-images.githubusercontent.com/58549170/110981818-02199300-8368-11eb-8adb-f15cd054281b.PNG)
+![5mm_Fl](https://user-images.githubusercontent.com/58549170/110983874-a3a1e400-836a-11eb-90f2-d17a7cf08994.PNG)
+
 
 Lastly, insert the slide with the sample into the slot of the sampleholder.
 
