@@ -9,11 +9,14 @@ The 5mm-Setup does not feature this extra thread since barrel and sampleholder a
 For optimal imaging results, hold your microscope setup against an ambient light source (like a window or a lamp). This will increase contrast and images will be sharper.
 
 Folwowing images were obtained with the Huawei Nova:
+
 ![image](https://user-images.githubusercontent.com/58549170/111808656-802fe980-88d4-11eb-8fb1-70a97a143acb.png)
 
 
 Following resoltuions were achieved in brightfield imaging:
+
 ![image](https://user-images.githubusercontent.com/58549170/111808305-2cbd9b80-88d4-11eb-9945-135b69e07bbc.png)
+
 
 
 
@@ -29,10 +32,13 @@ Please use a dimmed environment for the imaging progress, as less ambient light 
 
 Hold your LED-curcuit onto one side of the slide, so that the LED is centered on the surface as shown in the following pictures and schematics.  
 ![image](https://user-images.githubusercontent.com/58549170/111811531-6b088a00-88d7-11eb-9411-250b065bc76b.png)
+Open-source DIY multicolor fluorescence smartphone microscope![image](https://user-images.githubusercontent.com/58549170/111812745-afe0f080-88d8-11eb-9a78-d60098b248ec.png)
 ![image](https://user-images.githubusercontent.com/58549170/111810841-bb331c80-88d6-11eb-9e74-58b2c9f9c7bf.png)
+
 
 Following images were obtained with the Huawei Nova:
 ![image](https://user-images.githubusercontent.com/58549170/111811835-c5a1e600-88d7-11eb-8dc1-f20176f3e3fc.png)
+
 
 Following images were obtained with the Huawei P30 Pro:
 ![image](https://user-images.githubusercontent.com/58549170/111812108-0e599f00-88d8-11eb-843b-f761433af32b.png)
