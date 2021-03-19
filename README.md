@@ -7,7 +7,7 @@ This Smartphone Microscope was constructed as a group project at the Ernst-Abbe-
 Since current benchtop microsopes usually are expensive, quite bulky and require a skilled operator, schools and developing countries often lack the access to high-resolution imaging devices. However most people posess a smartphone and the know-how to use the camera-apllication. Smartphones automatically save the images in a digital file and by it's nature weigh little and able to transfer data wirelessly.
 
 Contributers:
-Corinna Hägele, Evelina Jussupov, Prof. Dr. Iwan Schie, Eckart Hesse, Prof. Dr. Burkhardt Fleck
+### Corinna Hägele, Evelina Jussupov, Prof. Dr. Iwan Schie, Eckart Hesse, Prof. Dr. Burkhardt Fleck
 
 
 
