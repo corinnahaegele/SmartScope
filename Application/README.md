@@ -32,7 +32,7 @@ Please use a dimmed environment for the imaging progress, as less ambient light 
 
 Hold your LED-curcuit onto one side of the slide, so that the LED is centered on the surface as shown in the following pictures and schematics.  
 ![image](https://user-images.githubusercontent.com/58549170/111811531-6b088a00-88d7-11eb-9411-250b065bc76b.png)
-Open-source DIY multicolor fluorescence smartphone microscope![image](https://user-images.githubusercontent.com/58549170/111812745-afe0f080-88d8-11eb-9a78-d60098b248ec.png)
+Sung, Y., Campa, F., Shish, W.C.: Open-source do-it-yourself multi-color fluorescence smartphone microscopy, Biomedical Optics Express, Vol. 8, November 2017
 ![image](https://user-images.githubusercontent.com/58549170/111810841-bb331c80-88d6-11eb-9e74-58b2c9f9c7bf.png)
 
 
