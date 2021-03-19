@@ -13,7 +13,7 @@ Following images were obtained with the Huawei Nova:
 ![image](https://user-images.githubusercontent.com/58549170/111808656-802fe980-88d4-11eb-8fb1-70a97a143acb.png)
 
 
-Following resoltuions were achieved in brightfield imaging:
+Following resoltuions were achieved in brightfield imaging (Huawei Nova):
 
 ![image](https://user-images.githubusercontent.com/58549170/111808305-2cbd9b80-88d4-11eb-9945-135b69e07bbc.png)
 
