@@ -8,7 +8,7 @@ The 5mm-Setup does not feature this extra thread since barrel and sampleholder a
 
 For optimal imaging results, hold your microscope setup against an ambient light source (like a window or a lamp). This will increase contrast and images will be sharper.
 
-Folwowing images were obtained with the Huawei Nova:
+Following images were obtained with the Huawei Nova:
 
 ![image](https://user-images.githubusercontent.com/58549170/111808656-802fe980-88d4-11eb-8fb1-70a97a143acb.png)
 
