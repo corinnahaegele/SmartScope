@@ -30,7 +30,7 @@ The 5mm-Setup does not feature this extra thread since barrel and sampleholder a
 
 Please use a dimmed environment for the imaging progress, as less ambient light reduces the amount of scattered light and images will be sharper.
 
-Hold your LED-curcuit onto one side of the slide, so that the LED is centered on the surface as shown in the following pictures and schematics.  
+Hold your LED-circuit onto one side of the slide, so that the LED is centered on the surface as shown in the following pictures and schematics.LED-light will be guided by Total Internal Reflection.  
 ![image](https://user-images.githubusercontent.com/58549170/111811531-6b088a00-88d7-11eb-9411-250b065bc76b.png)
 
 Schematic from: Sung, Y., Campa, F., Shish, W.C.: Open-source do-it-yourself multi-color fluorescence smartphone microscopy, Biomedical Optics Express, Vol. 8, November 2017
