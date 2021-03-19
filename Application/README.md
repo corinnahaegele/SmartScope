@@ -34,6 +34,7 @@ Hold your LED-curcuit onto one side of the slide, so that the LED is centered on
 ![image](https://user-images.githubusercontent.com/58549170/111811531-6b088a00-88d7-11eb-9411-250b065bc76b.png)
 
 Schematic from: Sung, Y., Campa, F., Shish, W.C.: Open-source do-it-yourself multi-color fluorescence smartphone microscopy, Biomedical Optics Express, Vol. 8, November 2017
+
 ![image](https://user-images.githubusercontent.com/58549170/111810841-bb331c80-88d6-11eb-9e74-58b2c9f9c7bf.png)
 
 
