@@ -3,6 +3,7 @@
 current smartphone adapters have been implemented for geometries of following devices:
 - Huawei Nova 
 - Huawei P30 Pro
+- Universal adapters should be suitable for most smartphones. They can be used for all setup-geometries EXCEPT for fluorescence imaging with 12.5mm filter!
 
 
 
