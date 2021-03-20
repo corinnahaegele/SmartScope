@@ -15,8 +15,8 @@ Setups were constructed and printed for following lenses:
 
 ### colour filters:
 flourescence imaging was impleneted using following filters:
-- 12.5mm diameter and cut-off wavelength of 580nm (links): https://www.edmundoptics.de/p/o-58-580nm-125mm-dia-longpass-filter/20574/
-- 25mm diameter and cut-off wavelength of 590nm (links): https://www.thorlabs.com/thorproduct.cfm?partnumber=FGL590M
+- 12.5mm diameter and cut-off wavelength of 580nm: https://www.edmundoptics.de/p/o-58-580nm-125mm-dia-longpass-filter/20574/
+- 25mm diameter and cut-off wavelength of 590nm: https://www.thorlabs.com/thorproduct.cfm?partnumber=FGL590M
 
 ![image](https://user-images.githubusercontent.com/58549170/111815862-7316f880-88dc-11eb-9a2b-3f37cb686f5d.png)
 
