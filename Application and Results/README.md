@@ -25,7 +25,7 @@ Following resoltuions were achieved in brightfield imaging (Huawei Nova):
 For fluorescence imaging, insert the glass slide into the slit intended for the slide. 
 The sample should be on the surface facing away from the camera. 
 
-When using the 9mm-Setup, the thread between barrell and Sampleholder can be used to adjust the slide to the optimal focal lenght. 
+When using the 9mm-Setup, the thread between barrell and sampleholder can be used to adjust the slide to the optimal focal lenght. 
 The 5mm-Setup does not feature this extra thread since barrel and sampleholder are combined in one part. 
 
 Please use a dimmed environment for the imaging progress, as less ambient light reduces the amount of scattered light and images will be sharper.
