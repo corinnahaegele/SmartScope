@@ -25,12 +25,12 @@ Source of the diagram: https://www.edmundoptics.de/p/o-58-580nm-125mm-dia-longpa
 
 
 ### LED:
-excitation of fluorescent sample was archieved by using following LED:
+excitation of fluorescent sample was achieved by using following LED:
 - typical wavelenght 525nm: https://www.leds-and-more.de/catalog/smd-5050-plcc6-led-ultrahell-gruen-2500mcd-120-chip-p-1379.html?osCsid=tl46casp77ge3mi5qtluc61te4#!tab2
 
 ### Sample:
 As fluorescent sample, red polyethylene microspheres were used. The beads can be excited by a broad spectrum of light and emitts red light with wavelength= 607nm
-https://www.cospheric.com/UVPMSBR_fluorescent_red_spheres_density1090.htm
+https://www.cospheric.com/UVPMSBR_fluorescent_red_spheres_density1090.htm.
 
 ![image](https://user-images.githubusercontent.com/58549170/111816398-1700a400-88dd-11eb-9cf7-c9ebd984ef08.png)
 
