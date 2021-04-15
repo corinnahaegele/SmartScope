@@ -1,10 +1,10 @@
 # 5mm Setup
 
-This folder contains all the constructions required for the application of the 5mm-lens
+This folder contains all the constructions required for the application of the 5mm-lens.
 
 
 ## Brightfield
-- Basis for Huawei Nova/ Basis for Huawei P30Pro
+- Basis for Huawei Nova/ Basis for Huawei P30 Pro
 - Brightfield Sampleholder 
 
 ## Fluorescence
@@ -17,6 +17,6 @@ This folder contains all the constructions required for the application of the 5
 
 ### 25mm Filter
 - Basis for Huawei Nova/ Basis for Huawei P30Pro
-- Barrell for slide with sampple
+- Barrel for slide with sample
 
 
