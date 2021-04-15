@@ -1,8 +1,7 @@
 # Instructions for assembly of brightfield microscope
 
 Choose the parts as listed in the folders 5mm or 9mm. 
-
-Follow the link for choosing the parts: https://github.com/corinnahaegele/SmartScope/tree/main/Parts/other or go to SmartScope/Parts/other/.
+Follow the link for choosing the parts https://github.com/corinnahaegele/SmartScope/tree/main/Parts/other or go to SmartScope/Parts/other/.
 
 Assemble the parts like shown in the pictures below:
 
