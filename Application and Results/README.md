@@ -17,16 +17,15 @@ For optimal imaging results, hold your microscope setup against an ambient light
 In the following image the dimensions of one cell of the used green algae sample are shown. 
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/58549149/114869228-09184300-9df7-11eb-9cd6-09965be48e54.png)">
+  <img src="https://user-images.githubusercontent.com/58549149/114869228-09184300-9df7-11eb-9cd6-09965be48e54.png">
 </p>
-
 
 
 
 Following images were obtained with the Huawei Nova:
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/58549170/111808656-802fe980-88d4-11eb-8fb1-70a97a143acb.png)">
+  <img src="https://user-images.githubusercontent.com/58549170/111808656-802fe980-88d4-11eb-8fb1-70a97a143acb.png">
 </p>
 
 
@@ -37,7 +36,7 @@ Following resolutions were achieved in brightfield imaging (Huawei Nova):
 
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/58549170/114883228-0290c800-9e05-11eb-9543-5c27217dec4f.png)">
+  <img src="https://user-images.githubusercontent.com/58549170/114883228-0290c800-9e05-11eb-9543-5c27217dec4f.png">
 </p>
 
 
@@ -56,7 +55,7 @@ Please use a dimmed environment for the imaging progress, as less ambient light 
 Hold your LED-circuit onto one side of the slide, so that the LED is centered on the surface as shown in the following pictures and schematics. LED-light will be guided by Total Internal Reflection. 
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/58549170/111811531-6b088a00-88d7-11eb-9411-250b065bc76b.png)">
+  <img src="https://user-images.githubusercontent.com/58549170/111811531-6b088a00-88d7-11eb-9411-250b065bc76b.png">
 </p>
 
 
@@ -64,7 +63,7 @@ Schematic from: Sung, Y., Campa, F., Shish, W.C.: Open-source do-it-yourself mul
 
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/58549170/111810841-bb331c80-88d6-11eb-9e74-58b2c9f9c7bf.png)">
+  <img src="https://user-images.githubusercontent.com/58549170/111810841-bb331c80-88d6-11eb-9e74-58b2c9f9c7bf.png">
 </p>
 
 
@@ -74,7 +73,7 @@ Following images were obtained with the Huawei Nova:#
 
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/58549170/111811835-c5a1e600-88d7-11eb-8dc1-f20176f3e3fc.png)">
+  <img src="https://user-images.githubusercontent.com/58549170/111811835-c5a1e600-88d7-11eb-8dc1-f20176f3e3fc.png">
 </p>
 
 
@@ -83,7 +82,7 @@ Following images were obtained with the Huawei P30 Pro:
 
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/58549170/111812108-0e599f00-88d8-11eb-843b-f761433af32b.png)">
+  <img src="https://user-images.githubusercontent.com/58549170/111812108-0e599f00-88d8-11eb-843b-f761433af32b.png">
 </p>
 
 
@@ -95,7 +94,7 @@ Following resolutions were achieved in fluorescence imaging (Huawei Nova):
 
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/58549170/114883133-ea20ad80-9e04-11eb-845b-7afa7cdfcea8.png)">
+  <img src="https://user-images.githubusercontent.com/58549170/114883133-ea20ad80-9e04-11eb-845b-7afa7cdfcea8.png">
 </p>
 
 
@@ -103,7 +102,7 @@ Following resolutions were achieved in fluorescence imaging (Huwei P30 pro):
 
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/58549170/114883071-dd9c5500-9e04-11eb-9d08-39087823806d.png)">
+  <img src="https://user-images.githubusercontent.com/58549170/114883071-dd9c5500-9e04-11eb-9d08-39087823806d.png">
 </p>
 
 
@@ -115,6 +114,6 @@ The method used for the calculation was the method of "doubled lenght of pixels"
 
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/58549170/114882545-58b13b80-9e04-11eb-8c8b-2308e3ac2c22.png)">
+  <img src="https://user-images.githubusercontent.com/58549170/114882545-58b13b80-9e04-11eb-8c8b-2308e3ac2c22.png">
 </p>
 
