@@ -8,7 +8,7 @@ The 5mm-setup does not feature this extra thread since barrel and sampleholder a
 
 For optimal imaging results, hold your microscope setup against an ambient light source (like a window or a lamp). This will increase contrast and images will be sharper.
 
-In the following image we can see the dimensions of one cell of the used green alge sample. 
+In the following image we can see the dimensions of one cell of the used green algae sample. 
 
 ![image](https://user-images.githubusercontent.com/58549149/114869228-09184300-9df7-11eb-9cd6-09965be48e54.png)
 
