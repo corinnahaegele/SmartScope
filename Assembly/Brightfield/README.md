@@ -6,13 +6,13 @@ Follow the link for choosing the parts https://github.com/corinnahaegele/SmartSc
 Assemble the parts like shown in the pictures below:
 
 ## 9mm Setup
-Insert the 9mm-lens in the barrell with with the flat surface facing outwards. The surface of the lens should be flush with the barrell.
+Insert the 9mm-lens in the barrell with the flat surface facing outwards. The surface of the lens should be flush with the barrell.
 
 ![9mm_Insert_Lense](https://user-images.githubusercontent.com/58549170/110981710-d9919900-8367-11eb-98f6-013307856a1e.PNG)
 
 
 
-Insert the mobile phone into the basis-slot (display facing down) and mount the other parts (with lens inside of barrell)
+Insert the mobile phone into the basis-slot (display facing down) and mount the other parts (with lens inside of barrell).
 
 ![9mm_Assemble_Parts](https://user-images.githubusercontent.com/58549170/110979838-6d159a80-8365-11eb-84e2-cc887dc41683.PNG)
 
@@ -22,7 +22,7 @@ The thread connecting sampleholder and barrell can be used to meet the exact foc
 
 
 ## 5mm Setup
-Insert the 5mm-lens in the sampleholder (Barrell and sampleholder are combined in ONE part) with with the flat surface facing outwards. The surface of the lens should be flush with the sampleholder.
+Insert the 5mm-lens in the sampleholder (Barrell and sampleholder are combined in ONE part) with the flat surface facing outwards. The surface of the lens should be flush with the sampleholder.
 
 
 ![5mm_insert_lens](https://user-images.githubusercontent.com/58549170/110981526-8cadc280-8367-11eb-929f-b6a199059f3e.PNG)
