@@ -13,7 +13,10 @@ Following images were obtained with the Huawei Nova:
 ![image](https://user-images.githubusercontent.com/58549170/111808656-802fe980-88d4-11eb-8fb1-70a97a143acb.png)
 
 
-Following resoltuions were achieved in brightfield imaging (Huawei Nova):
+
+## Resolution of brightfield imaging
+
+Following resolutions were achieved in brightfield imaging (Huawei Nova):
 
 ![image](https://user-images.githubusercontent.com/58549170/114857230-54772500-9de8-11eb-98d3-2ee54002f80e.png)
 
@@ -46,6 +49,8 @@ Following images were obtained with the Huawei Nova:
 
 Following images were obtained with the Huawei P30 Pro:
 ![image](https://user-images.githubusercontent.com/58549170/111812108-0e599f00-88d8-11eb-843b-f761433af32b.png)
+
+## Resolution of fluorescence imaging
 
 The microspheres had fixed sizes from 32µm to 38µm and therefore were used as object micrometer. Since the particular size of the observed one microsphere was unknown, resolutions for both the best case scenario (32µm sphere) and worst case scenario (38µm sphere) were calculated and are shown in the tables below.
 The method used for the calculation was the method of "doubled lenght of pixels".
