@@ -1,3 +1,7 @@
+The assembled microscope looks like this:
+
+![image](https://user-images.githubusercontent.com/58549170/114880475-636ad100-9e02-11eb-917e-3969230fc221.png)
+
 # Brightfield imaging
 
 For brightfield imaging, insert the glass slide into the slit intended for the slide. 
@@ -8,7 +12,7 @@ The 5mm-setup does not feature this extra thread since barrel and sampleholder a
 
 For optimal imaging results, hold your microscope setup against an ambient light source (like a window or a lamp). This will increase contrast and images will be sharper.
 
-In the following image we can see the dimensions of one cell of the used green algae sample. 
+In the following imagthe dimensions of one cell of the used green algae sample are shown. 
 
 ![image](https://user-images.githubusercontent.com/58549149/114869228-09184300-9df7-11eb-9cd6-09965be48e54.png)
 
@@ -58,12 +62,17 @@ Following images were obtained with the Huawei P30 Pro:
 ## Resolution of fluorescence imaging
 
 The microspheres had fixed sizes from 32µm to 38µm and therefore were used as object micrometer. Since the particular size of the observed one microsphere was unknown, resolutions for both the best case scenario (32µm sphere) and worst case scenario (38µm sphere) were calculated and are shown in the tables below.
-The method used for the calculation was the method of "doubled lenght of pixels".
 
 Following resolutions were achieved in fluorescence imaging (Huawei Nova):
 
-![image](https://user-images.githubusercontent.com/58549170/114858916-5b9f3280-9dea-11eb-8f40-d72e52fcf60b.png)
+![image](https://user-images.githubusercontent.com/58549170/114882682-7aaabe00-9e04-11eb-8b7e-52627cc6ff8e.png)
 
 Following resolutions were achieved in fluorescence imaging (Huwei P30 pro):
 
-![image](https://user-images.githubusercontent.com/58549170/114859296-d700e400-9dea-11eb-80b4-aef39c4a18fe.png)
+![image](https://user-images.githubusercontent.com/58549170/114882776-96ae5f80-9e04-11eb-9cf0-3d9cada367a3.png)
+
+
+
+The method used for the calculation was the method of "doubled lenght of pixels". The following picture shows the determination of pixel lenght with the software "imageJ" (here ist if for best case scenario).
+
+![image](https://user-images.githubusercontent.com/58549170/114882545-58b13b80-9e04-11eb-8c8b-2308e3ac2c22.png)
