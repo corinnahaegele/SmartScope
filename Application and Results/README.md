@@ -1,6 +1,8 @@
 The assembled microscope looks like this:
 
-![image](https://user-images.githubusercontent.com/58549170/114880475-636ad100-9e02-11eb-917e-3969230fc221.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58549170/114880475-636ad100-9e02-11eb-917e-3969230fc221.png">
+</p>
 
 # Brightfield imaging
 
@@ -14,12 +16,18 @@ For optimal imaging results, hold your microscope setup against an ambient light
 
 In the following imagthe dimensions of one cell of the used green algae sample are shown. 
 
-![image](https://user-images.githubusercontent.com/58549149/114869228-09184300-9df7-11eb-9cd6-09965be48e54.png)
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/58549149/114869228-09184300-9df7-11eb-9cd6-09965be48e54.png)">
+</p>
+
+
 
 
 Following images were obtained with the Huawei Nova:
 
-![image](https://user-images.githubusercontent.com/58549170/111808656-802fe980-88d4-11eb-8fb1-70a97a143acb.png)
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/58549170/111808656-802fe980-88d4-11eb-8fb1-70a97a143acb.png)">
+</p>
 
 
 
@@ -27,8 +35,10 @@ Following images were obtained with the Huawei Nova:
 
 Following resolutions were achieved in brightfield imaging (Huawei Nova):
 
-![image](https://user-images.githubusercontent.com/58549170/114857230-54772500-9de8-11eb-98d3-2ee54002f80e.png)
 
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/58549170/114883228-0290c800-9e05-11eb-9543-5c27217dec4f.png)">
+</p>
 
 
 
@@ -43,21 +53,39 @@ The 5mm-setup does not feature this extra thread since barrel and sampleholder a
 
 Please use a dimmed environment for the imaging progress, as less ambient light reduces the amount of scattered light and images will be sharper.
 
-Hold your LED-circuit onto one side of the slide, so that the LED is centered on the surface as shown in the following pictures and schematics. LED-light will be guided by Total Internal Reflection.  
-![image](https://user-images.githubusercontent.com/58549170/111811531-6b088a00-88d7-11eb-9411-250b065bc76b.png)
+Hold your LED-circuit onto one side of the slide, so that the LED is centered on the surface as shown in the following pictures and schematics. LED-light will be guided by Total Internal Reflection. 
+
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/58549170/111811531-6b088a00-88d7-11eb-9411-250b065bc76b.png)">
+</p>
+
 
 Schematic from: Sung, Y., Campa, F., Shish, W.C.: Open-source do-it-yourself multi-color fluorescence smartphone microscopy, Biomedical Optics Express, Vol. 8, November 2017
 
-![image](https://user-images.githubusercontent.com/58549170/111810841-bb331c80-88d6-11eb-9e74-58b2c9f9c7bf.png)
+
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/58549170/111810841-bb331c80-88d6-11eb-9e74-58b2c9f9c7bf.png)">
+</p>
+
 
 The sizes of the microspheres ranged from 32µm to 38µm, which was important for determining the resolution of fluorescence imaging.
 
-Following images were obtained with the Huawei Nova:
-![image](https://user-images.githubusercontent.com/58549170/111811835-c5a1e600-88d7-11eb-8dc1-f20176f3e3fc.png)
+Following images were obtained with the Huawei Nova:#
+
+
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/58549170/111811835-c5a1e600-88d7-11eb-8dc1-f20176f3e3fc.png)">
+</p>
+
 
 
 Following images were obtained with the Huawei P30 Pro:
-![image](https://user-images.githubusercontent.com/58549170/111812108-0e599f00-88d8-11eb-843b-f761433af32b.png)
+
+
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/58549170/111812108-0e599f00-88d8-11eb-843b-f761433af32b.png)">
+</p>
+
 
 ## Resolution of fluorescence imaging
 
@@ -65,14 +93,28 @@ The microspheres had fixed sizes from 32µm to 38µm and therefore were used as 
 
 Following resolutions were achieved in fluorescence imaging (Huawei Nova):
 
-![image](https://user-images.githubusercontent.com/58549170/114882682-7aaabe00-9e04-11eb-8b7e-52627cc6ff8e.png)
+
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/58549170/114883133-ea20ad80-9e04-11eb-845b-7afa7cdfcea8.png)">
+</p>
+
 
 Following resolutions were achieved in fluorescence imaging (Huwei P30 pro):
 
-![image](https://user-images.githubusercontent.com/58549170/114882776-96ae5f80-9e04-11eb-9cf0-3d9cada367a3.png)
+
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/58549170/114883071-dd9c5500-9e04-11eb-9d08-39087823806d.png)">
+</p>
+
+
+
 
 
 
 The method used for the calculation was the method of "doubled lenght of pixels". The following picture shows the determination of pixel lenght with the software "imageJ" (here ist if for best case scenario).
 
-![image](https://user-images.githubusercontent.com/58549170/114882545-58b13b80-9e04-11eb-8c8b-2308e3ac2c22.png)
+
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/58549170/114882545-58b13b80-9e04-11eb-8c8b-2308e3ac2c22.png)">
+</p>
+
