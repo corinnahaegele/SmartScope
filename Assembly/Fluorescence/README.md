@@ -6,7 +6,7 @@ Follow the link for choosing the parts https://github.com/corinnahaegele/SmartSc
 Assemble the parts like shown in the pictures below:
 
 ## 9mm Setup
-Insert the 9mm-lens in the barrell with with the flat surface facing outwards. The surface of the lens should be flush with the barrell.
+Insert the 9mm-lens in the barrell with the flat surface facing outwards. The surface of the lens should be flush with the barrell.
 
 ![9mm_Insert_Lense](https://user-images.githubusercontent.com/58549170/110981710-d9919900-8367-11eb-98f6-013307856a1e.PNG)
 
@@ -32,7 +32,7 @@ Select whichever color filter you would like tu use and the corresponding sample
 ![25mm_filter](https://user-images.githubusercontent.com/58549170/110982969-786ac500-8369-11eb-9037-9633a9c42252.PNG)
 
 
-Insert the 5mm-lens in the sampleholder with with the flat surface facing outwards. The surface of the lens should be flush with the sampleholder.
+Insert the 5mm-lens in the sampleholder with the flat surface facing outwards. The surface of the lens should be flush with the sampleholder.
 
 ![5mm_insert_lens](https://user-images.githubusercontent.com/58549170/110981526-8cadc280-8367-11eb-929f-b6a199059f3e.PNG)
 
