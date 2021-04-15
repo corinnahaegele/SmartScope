@@ -39,7 +39,7 @@ Following resolutions were achieved in brightfield imaging (Huawei Nova):
   <img src="https://user-images.githubusercontent.com/58549170/114883228-0290c800-9e05-11eb-9543-5c27217dec4f.png">
 </p>
 
-
+Due to background noise the actual resolution determined with the raleigh criterium is expected to be better than what is shown in the table. 
 
 
 # Fluorescence imaging
