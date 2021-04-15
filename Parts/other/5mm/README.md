@@ -13,10 +13,10 @@ This folder contains all the constructions required for the application of the 5
 
 ### 12.5mm Filter
 - Basis for Huawei Nova (Huawei P30 Pro does NOT fit here)
-- Barrell for slide with sampple
+- Barrel for slide with sampple
 
 ### 25mm Filter
 - Basis for Huawei Nova/ Basis for Huawei P30Pro
-- Barrel for slide with sample
+- Barrel for the slide with sample
 
 
