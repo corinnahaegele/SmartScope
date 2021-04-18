@@ -98,7 +98,7 @@ Following resolutions were achieved in fluorescence imaging (Huawei Nova):
 </p>
 
 
-Following resolutions were achieved in fluorescence imaging (Huwei P30 pro):
+Following resolutions were achieved in fluorescence imaging (Huwei P30 Pro):
 
 
 <p align="center">
