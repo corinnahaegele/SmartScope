@@ -110,7 +110,7 @@ Following resolutions were achieved in fluorescence imaging (Huwei P30 Pro):
 
 
 
-The method used for the calculation was the method of "doubled lenght of pixels". The following picture shows the determination of pixel lenght with the software "imageJ" (here ist if for best case scenario).
+The method used for the calculation was the method of "doubled lenght of pixels". The following picture shows the determination of pixel lenght with the software "imageJ" (here it is for best case scenario).
 
 
 <p align="center">
