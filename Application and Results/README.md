@@ -16,9 +16,8 @@ For optimal imaging results, hold your microscope setup against an ambient light
 
 In the following image the dimensions of one cell of the used green algae sample are shown. 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/58549149/114869228-09184300-9df7-11eb-9cd6-09965be48e54.png">
-</p>
+![image](https://user-images.githubusercontent.com/58549149/115147123-c3a78000-a059-11eb-80f1-81225e751745.png)
+
 
 
 
